@@ -9,3 +9,22 @@ body {
     margin: 0;
     background-color: blueviolet;
 }
+
+#contenedor1 {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+#contenedor2 {
+    width: 200px;
+    height: 200px;
+    background-color: beige;
+
+}
+#contenedor3{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(245, 220, 243);
+
+}
