@@ -1,0 +1,20 @@
+.button{
+    padding: 0;
+}
+.button li{
+    display: inline;
+}
+.button li a{
+    font-family: Arial;
+    font-size: 14px;
+    text-decoration:rgb(33, 74, 74);
+    float: left;
+    padding: 10px;
+    background-color: rgba(137, 43, 226, 0.603);
+    color: azure;
+}
+.button li a:hover{
+    background-color: black;
+    margin-top: 5px;
+    *padding-bottom: 12px;
+}
